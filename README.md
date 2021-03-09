@@ -1,4 +1,6 @@
-# Git-For-Open-Source :
+<h1 align="center">
+    ✨ All about Open Source ✨
+</h1>
 ![issue badge](https://img.shields.io/github/issues/kaiwalyakoparkar/Git-For-Open-Source)
 ![stars badge](https://img.shields.io/github/stars/kaiwalyakoparkar/Git-For-Open-Source)
 ![Fork badge](https://img.shields.io/github/forks/kaiwalyakoparkar/Git-For-Open-Source)
