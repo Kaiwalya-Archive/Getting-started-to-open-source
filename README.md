@@ -6,7 +6,7 @@
 ![stars badge](https://img.shields.io/github/stars/kaiwalyakoparkar/Git-For-Open-Source)
 ![Fork badge](https://img.shields.io/github/forks/kaiwalyakoparkar/Git-For-Open-Source)
 
-## Learning skills :
+## :books: Learning skills :
 This is very basic and foundational step. You will have to learn at least 30-40% of any technology. Technology can refer to any. Most popular are :
 1. Full stack development
 2. Front end development
@@ -15,7 +15,7 @@ This is very basic and foundational step. You will have to learn at least 30-40%
 5. C++, Java, Python
 etc.
 
-## Finding Organisation :
+## :mag: Finding Organisation :
 Finding the organisation which matches your skillset is very important. You can refer google for this or 
 1. Visit the websites of GSOC, GSSOC and such programs.
 2. Go to there past year's organinsation lists
@@ -23,7 +23,7 @@ Finding the organisation which matches your skillset is very important. You can 
 4. Go to the orginsation on the github and find the project that interests you.
 5. And follow the steps below
 
-## Code of conducts & Readme of Projects :
+## 📝 Code of conducts & Readme of Projects :
 ### Readme of Project :
 Readme of a project is very essential for users/ first time contributors of the project. Readme files give brief overview of the project to the developers intersected to contribute to it. Every new contributor should read the readme files to understand the workflow. Readme files contains the following.
 1. About the project
@@ -36,13 +36,13 @@ If the projects are very big and contains many components then the developer sho
 ### Code of Conduct :
 Code of conduct is basically a file which contains the behavorial instructions for everyone associated with the project. Every organisation today has a code of conduct. Every person in the community is bound to follow the code of conduct.
 
-## Selecting or solving Issues & Bugs :
+## 💻 Selecting or solving Issues & Bugs :
 After you have successfully found out the organisation and project you want to contribute to and have read the readme's and code of conduct. So, now its time to do some work. In any organinsation/ project there are lots of issues open in the issues section. If you are first timer then you can filter the issues by `good-first-time-issues` which are specially created for anyone who is contributing first time.
 
 ### Confirming the issue and asking for help
 This may sound weird but that's true. You have to go on the issue you want to solve. In the comments tell them like "Hey, I want to work on this issue, could you please tell me how can I solve this. " You can also ask this question on their newsletter platform on the general channel. You can get help of many people contributing to that organisation.
 
-## Setting local environment :
+## ⚙️ Setting local environment :
 The readme file about which we talked about contains all the steps you need to follow to setup that project locally on your computer.
 1. Fork the project to make your own copy of the project (Very important do no ignore this)
 2. Go to your forked project and clone it your computer using
@@ -94,5 +94,5 @@ git pull upstream master
 ```
 This will update the locale code with the lastest update main code. 
  
-## Maintainers : 
+## 🧑‍ Maintainers
 [Kaiwalya Koparkar](https://kaiwalyakoparkar.github.io/)
